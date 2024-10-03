@@ -89,8 +89,3 @@ This Online Chatting Application allows real-time communication between users. Y
 - **File Sharing**: Support for sharing files during chat sessions.
 - **Enhanced UI**: Improve the user interface for a better user experience.
 
-## Screenshots
-_Include screenshots of the chat window, message input, and active user status._
-
-## License
-This project is licensed under the MIT License.
